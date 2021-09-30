@@ -1,0 +1,15 @@
+.body-container {
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.home-intro {
+    font-size: 20px;
+    width: 100%;
+    line-height: 1.5;
+}
+
+.section {
+    padding: 20px;
+}
